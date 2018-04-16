@@ -3,6 +3,7 @@ ZSH_THEME="bullet-train"
 # ZSH Theme settings
 BULLETTRAIN_PROMPT_ORDER=(
 	time
+    context
 	dir
 	git
 	virtualenv
